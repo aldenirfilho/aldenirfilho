@@ -52,3 +52,13 @@ Sugestões de acessibilidade, documentação, desenvolvimento e revisão educaci
 **English**  
 Physician specialized in Internal Medicine, with a master's degree in Health Sciences from the Federal University of Ceará.  
 I build projects in medical education, AI-assisted creation and accessible learning through the 360X ecosystem.
+
+<!-- COMMAND-NOTCH-360X:BEGIN -->
+## Command Notch · 360X
+
+[**Site oficial e demonstração**](https://command-notch-360x.aldenirmed.chatgpt.site) · [Apresentação no GitHub](https://github.com/aldenirfilho/command-notch-360x)
+
+Aplicativo macOS para Apple Silicon: notas, arquivos, voz e Spotify, com novos módulos de timer, cronômetro, alarme, Pomodoro de 25 minutos e prévia local de uma janela escolhida. Versão 0.10.0 build 23 em validação local. Site em oito idiomas; navegação e módulos novos do app em seis idiomas, com áreas anteriores ainda em português.
+
+**Pré-lançamento:** preços de assinatura e compra única são propostas. Sem checkout ou download público; assinatura Developer ID, notarização e homologação permanecem etapas do lançamento.
+<!-- COMMAND-NOTCH-360X:END -->
